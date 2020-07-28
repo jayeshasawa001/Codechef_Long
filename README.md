@@ -1,2 +1,2 @@
-# Codechef_Long
-Codechef Long Challange
+# Codechef Long Challanges
+Codechef Long Challange attempted by me.
